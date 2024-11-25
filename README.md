@@ -1,0 +1,5 @@
+- Feel free to review my recommendation assignment, which was assigned by HouseSigma during my interview for the position of Senior MLE.
+- Although I was rejected by HouseSigma, I still learned something valuable during the follow-up meeting after completing the assignment.
+- The interviewer mentioned that he thought the candidate retrieval step was redundant in this case, as there were only 300 agents in the dataset (which was never mentioned in the PDF).
+- In the notebook, I assumed that there was a large amount of data in the agent transaction dataset and explained the reasons why collaborative filtering was used.
+- Never mind, if you are reviewing my notebook, I truly appreciate your interest in my work.

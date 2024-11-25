@@ -1,0 +1,5 @@
+Id,Agent ID,Client ID,ml num,client_request_flg,client_request_msg,client_appointment_flg,transaction_flg
+1,326,6549123,X3614436,1,"I'd like to buy/sell something similar to: X3614436], 25 Paulvale Cres, North York",1,1
+2,645,198466,N3615080,1,"I want to book an appointment to view: [N3615080], 118 Daffodil Pl, Brampton",1,0
+3,129,1985438,E3608118,1,"I want to book an appointment to view: [E3608118], Unit Lower - 107 Brookhaven Dr, North York",0,0
+4,546,21624564,W3615761,1,"I want to book an appointment to view: [W3615761], 251 Thomas Cook Ave, Vaughan",0,0
